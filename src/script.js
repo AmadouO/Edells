@@ -6,4 +6,5 @@ const lien = document.querySelector("a");
 const input = document.querySelector("input");
 
 h.childNodes[0].nodeValue = "bonjour Edells";
+
 console.log(h.childNodes[0]);
