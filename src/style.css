@@ -34,7 +34,7 @@ button {
    border: 0px;
    border-radius: 5px;
    margin: 0 3px;
-   
+   outline: 0;
 }
 
 input{
@@ -56,6 +56,9 @@ li{
    display: flex;
    align-items: center;
    padding: 10px 0px;
+}
+li input{
+   flex: 1;
 }
 li p{
    flex: 1;
